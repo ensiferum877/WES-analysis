@@ -1,6 +1,6 @@
 # PCA on Genotype Calls derived from Exome Sequencing on data from Healthy Subjects and PD Patients
 
-This repository contains a Jupyter Notebook where I illustrate the processing of whole exome sequencing (WES) data to apply dimensionality reduction techniques such as perform Principal Component Analysis (PCA) on numerized genotype calls obtained. The dataset used for this purposes contains WES data derived from healthy individuals and patients diagnosed with Parkinson's Disease (PD).
+This repository contains a Jupyter Notebook where I illustrate the processing of whole exome sequencing (WES) data to apply dimensionality reduction techniques such as Principal Component Analysis (PCA) on numerized genotype calls obtained. The dataset used for this purposes contains WES data derived from healthy individuals and patients diagnosed with Parkinson's Disease (PD).
 
 ## Overview
 
